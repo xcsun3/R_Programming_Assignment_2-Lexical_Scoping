@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This is a custom data type of matrix that would store its inverse as a cache
+## when the inverse is first computed
+## This is a programming assignment for Coursera course 
 
 ## Create a special type of matrix that can store its inverse as cache
 
